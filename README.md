@@ -1,0 +1,1 @@
+This is HotAndCold's first git project!
